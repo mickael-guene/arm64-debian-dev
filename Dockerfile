@@ -1,4 +1,4 @@
-FROM mickaelguene/arm64-debian:jessie
+FROM mickaelguene/arm64-debian:testing
 
 MAINTAINER Mickael Guene <mickael.guene@st.com>
 
