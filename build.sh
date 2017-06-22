@@ -22,7 +22,7 @@ apt-get update && apt-get upgrade -y && apt-get install -y --no-install-recommen
     liblzma-dev \
     libmagickcore-dev \
     libmagickwand-dev \
-    libmysqlclient-dev \
+    default-libmysqlclient-dev \
     libncurses-dev \
     libpq-dev \
     libreadline-dev \
